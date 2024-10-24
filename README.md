@@ -6,7 +6,7 @@ I'm a **front-end developer** with experience in React, Next.js, TypeScript, and
 - **Languages:** HTML, CSS, JavaScript, TypeScript
 - **Frameworks:** React, Next.js
 - **Styling:** Tailwind CSS, SCSS
-- **Other:** Git, GitHub, Figma
+- **Other:** Git, GitHub, Figma, Redux
 
 ### 🌐 [My Portfolio](https://dekidejan.github.io/portfolio/)
 
